@@ -4,6 +4,7 @@
     "type": "library",
     "require": {
         "php": "^7.1 || ^8.0"
+        "web/asset": "dev-master",
     },
     "require-dev": {
         "phpunit/phpunit": "^9.5@dev"
